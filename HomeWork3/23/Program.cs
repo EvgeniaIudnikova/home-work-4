@@ -2,3 +2,10 @@
 // таблицу кубов чисел от 1 до N.
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
+
+Console.Clear();
+int N = new Random().Next(0, 100);
+for (int B = 1; B<N; B++)
+{
+   Console.Write($" {Math.Pow(B, 3)}");
+}
