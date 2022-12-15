@@ -15,7 +15,7 @@ Console.Write("Введите y: ");
 int y = int.Parse(Console.ReadLine());
 Console.Write("Введите z: ");
 int z = int.Parse(Console.ReadLine());
-int[,,] matrix = GetArray(x, y, z, 0, 10);
+int[,,] matrix = GetArray(x, y, z, 10, 100);
 PrintArray(matrix);
 Console.WriteLine();
 
