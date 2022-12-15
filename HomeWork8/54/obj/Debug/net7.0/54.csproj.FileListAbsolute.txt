@@ -1,0 +1,15 @@
+C:\Git_my\C#\HomeWork8\54\bin\Debug\net7.0\54.exe
+C:\Git_my\C#\HomeWork8\54\bin\Debug\net7.0\54.deps.json
+C:\Git_my\C#\HomeWork8\54\bin\Debug\net7.0\54.runtimeconfig.json
+C:\Git_my\C#\HomeWork8\54\bin\Debug\net7.0\54.dll
+C:\Git_my\C#\HomeWork8\54\bin\Debug\net7.0\54.pdb
+C:\Git_my\C#\HomeWork8\54\obj\Debug\net7.0\54.csproj.AssemblyReference.cache
+C:\Git_my\C#\HomeWork8\54\obj\Debug\net7.0\54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_my\C#\HomeWork8\54\obj\Debug\net7.0\54.AssemblyInfoInputs.cache
+C:\Git_my\C#\HomeWork8\54\obj\Debug\net7.0\54.AssemblyInfo.cs
+C:\Git_my\C#\HomeWork8\54\obj\Debug\net7.0\54.csproj.CoreCompileInputs.cache
+C:\Git_my\C#\HomeWork8\54\obj\Debug\net7.0\54.dll
+C:\Git_my\C#\HomeWork8\54\obj\Debug\net7.0\refint\54.dll
+C:\Git_my\C#\HomeWork8\54\obj\Debug\net7.0\54.pdb
+C:\Git_my\C#\HomeWork8\54\obj\Debug\net7.0\54.genruntimeconfig.cache
+C:\Git_my\C#\HomeWork8\54\obj\Debug\net7.0\ref\54.dll
