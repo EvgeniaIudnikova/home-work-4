@@ -37,13 +37,6 @@ int[,,] GetArray(int x, int y, int z)
     return array;        
 }
 
-//Чтобы сделать массив из неповторяющихся рандомных значений возможно потребуется что-то думать с следующими строками
-//но у меня никак не получается
-// foreach (int el in array) 
-//     if (array[a, b, c]==el && (i != a || j != b || k != c))
-//     array[a, b, c] = new Random().Next(min, max + 1);
-
-
 void PrintArray(int[,,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)

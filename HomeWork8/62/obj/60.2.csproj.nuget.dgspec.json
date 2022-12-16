@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git_my\\C#\\HomeWork8\\60.2\\60.2.csproj": {}
+    "C:\\Git_my\\C#\\HomeWork8\\62\\60.2.csproj": {}
   },
   "projects": {
-    "C:\\Git_my\\C#\\HomeWork8\\60.2\\60.2.csproj": {
+    "C:\\Git_my\\C#\\HomeWork8\\62\\60.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git_my\\C#\\HomeWork8\\60.2\\60.2.csproj",
+        "projectUniqueName": "C:\\Git_my\\C#\\HomeWork8\\62\\60.2.csproj",
         "projectName": "60.2",
-        "projectPath": "C:\\Git_my\\C#\\HomeWork8\\60.2\\60.2.csproj",
+        "projectPath": "C:\\Git_my\\C#\\HomeWork8\\62\\60.2.csproj",
         "packagesPath": "C:\\Users\\Евгения\\.nuget\\packages\\",
-        "outputPath": "C:\\Git_my\\C#\\HomeWork8\\60.2\\obj\\",
+        "outputPath": "C:\\Git_my\\C#\\HomeWork8\\62\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Евгения\\AppData\\Roaming\\NuGet\\NuGet.Config"
