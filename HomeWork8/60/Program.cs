@@ -22,14 +22,14 @@ Console.WriteLine();
 int[,,] GetArray(int x, int y, int z)
 {
     int[,,] array = new int[x, y, z];
-    int a = 0;
+    int a = 10;
     for (int i = 0; i < x ; i++)
     {    
         for (int j = 0; j < y; j++)
         {
             for (int k = 0; k < z; k++)
             {
-                array[i, j, k] = a+1;
+                array[i, j, k] = a;
                 a++;
             }                                       
         }
