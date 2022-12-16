@@ -15,25 +15,33 @@ Console.Write("Введите y: ");
 int y = int.Parse(Console.ReadLine());
 Console.Write("Введите z: ");
 int z = int.Parse(Console.ReadLine());
-int[,,] matrix = GetArray(x, y, z, 10, 100);
+int[,,] matrix = GetArray(x, y, z);
 PrintArray(matrix);
 Console.WriteLine();
 
-int[,,] GetArray(int x, int y, int z, int min, int max)
+int[,,] GetArray(int x, int y, int z)
 {
     int[,,] array = new int[x, y, z];
+    int a = 0;
     for (int i = 0; i < x ; i++)
     {    
         for (int j = 0; j < y; j++)
         {
             for (int k = 0; k < z; k++)
             {
-                array[i, j, k] = new Random().Next(min, max + 1);
-            }
-        }    
+                array[i, j, k] = a+1;
+                a++;
+            }                                       
+        }
     }
     return array;        
 }
+
+//Чтобы сделать массив из неповторяющихся рандомных значений возможно потребуется что-то думать с следующими строками
+//но у меня никак не получается
+// foreach (int el in array) 
+//     if (array[a, b, c]==el && (i != a || j != b || k != c))
+//     array[a, b, c] = new Random().Next(min, max + 1);
 
 
 void PrintArray(int[,,] array)
